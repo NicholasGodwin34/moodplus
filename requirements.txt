@@ -1,0 +1,11 @@
+streamlit
+pandas
+sqlalchemy
+nltk #generates suggestions and shit
+google-generativeai
+bcrypt #for auth
+plotly #Shows mood trends ig
+python-dotenv
+
+#i'm just tryna fix your branches, they're all over the place yk
+#let me know if you need help with anything
