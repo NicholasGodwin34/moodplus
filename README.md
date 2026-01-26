@@ -1,4 +1,4 @@
-# 🧠 MoodPlus: Your Personal Wellness Companion
+#  MoodPlus: Your Personal Wellness Companion
 
 **MoodPlus** is a powerful, AI-driven wellness application designed to help users track their emotional well-being, analyze mood patterns, and receive actionable, personalized advice to improve their mental health.
 
@@ -6,7 +6,7 @@ Originally developed for a HealthTech hackathon, this version combines a robust 
 
 ---
 
-## ✨ Features
+## Features
 
 - **Daily Journaling**: Seamlessly log your thoughts, feelings, and events of the day.
 - **Sentiment Analysis**: Uses **VADER (NLTK)** to automatically calculate a sentiment score from your journal entries.
@@ -30,7 +30,7 @@ Originally developed for a HealthTech hackathon, this version combines a robust 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project was originally developed across separate branches (`frontend`, `backend`, `main`). This repository now consolidates them for a unified development experience:
 
@@ -49,7 +49,7 @@ moodplus/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -91,9 +91,9 @@ The application will be available in your browser at `http://localhost:8501`.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
-This project was built as part of a collaborative effort. Feel free to open issues or submit pull requests to enhance the wellness features!
+This project was built as part of a collaborative effort. Feel free to open issues or submit pull requests to enhance the wellness features.
 
-## � License
+## License
 Initial commit for **gdg-minihackathon1**. HealthTech - Technology for wellness.
